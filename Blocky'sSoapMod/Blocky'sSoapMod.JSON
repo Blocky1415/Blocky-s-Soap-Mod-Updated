@@ -1,0 +1,12 @@
+{
+	"id": "blockys_soap_mod",
+	"name": "BlockysSoapMod",
+	"display_name": "Blocky's Soap Mod",
+	"author": ["blocky"],
+	"description": "Made this for dopamine",
+	"prefix": "loljk",
+	"main_file": "main.lua",
+	"badge_colour": "#078674",
+	"badge_text_colour": "#ffffff",
+	"version": "1.0.0"
+}
